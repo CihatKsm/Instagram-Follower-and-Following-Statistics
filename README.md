@@ -1,4 +1,4 @@
-# Instagram-follower-following-analysis.
+# Instagram-follower-following-analysis
 
 ```javascript
 const followerHTML = `instagram sayfasından aldığınız html kodu`;
